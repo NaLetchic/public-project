@@ -1,1 +1,1 @@
-# public-project
+wtiteln('Красная сорковка');
